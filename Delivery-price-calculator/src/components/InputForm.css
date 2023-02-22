@@ -1,0 +1,85 @@
+@media (min-width: 578px) {
+    .custom-width {
+        width: 30%;
+    }
+    .custom-btn-width {
+        width: 25% !important;
+    }
+    .bg-image {
+        width: 10%;
+        position: absolute;
+        top: 35rem;
+        right: 1rem;
+    }
+}
+
+@media (min-width: 768px) {
+    .custom-width {
+        width: 30%;
+    }
+    .bg-image {
+        position: absolute;
+        top: 29rem;
+        right: 1rem;
+    }
+}
+
+@media (min-width: 992px) {
+    .custom-width {
+        width: 30%;
+    }
+    .bg-image {
+        position: absolute;
+        top: 25rem;
+        right: 1rem;
+    }
+}
+
+@media (min-width: 1024px) {
+    .custom-width {
+        width: 30%;
+    }
+    .bg-image {
+        position: absolute;
+        top: 24rem;
+        right: 1rem;
+    }
+}
+
+@media (min-width: 1200px) {
+    .custom-width {
+        width: 30%;
+    }
+    .bg-image {
+        position: absolute;
+        top: 19rem;
+        right: 1rem;
+    }
+}
+
+@media (min-width: 1400px) {
+    .custom-width {
+        width: 30%;
+    }
+    .bg-image {
+        position: absolute;
+        top: 17rem;
+        right: 1rem;
+    }
+}
+
+@media (min-width: 2560px) {
+    .bg-image {
+        position: absolute;
+        top: 11rem;
+        right: -1rem;
+    }
+    .custom-width {
+        width: 30%;
+    }
+}
+
+.copyright-text {
+    text-align: end;
+    font-size: 6px;
+}
